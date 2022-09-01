@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Business\bin\Debug\net6.0\PFL.Business.deps.json
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Business\bin\Debug\net6.0\PFL.Business.dll
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Business\bin\Debug\net6.0\PFL.Business.pdb
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Business\bin\Debug\net6.0\PFL.Core.dll
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Business\bin\Debug\net6.0\PFL.Entities.dll
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Business\bin\Debug\net6.0\PFL.Core.pdb
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Business\bin\Debug\net6.0\PFL.Entities.pdb
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Business\obj\Debug\net6.0\PFL.Business.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Business\obj\Debug\net6.0\PFL.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Business\obj\Debug\net6.0\PFL.Business.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Business\obj\Debug\net6.0\PFL.Business.AssemblyInfo.cs
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Business\obj\Debug\net6.0\PFL.Business.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Business\obj\Debug\net6.0\PFL.Business.csproj.CopyComplete
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Business\obj\Debug\net6.0\PFL.Business.dll
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Business\obj\Debug\net6.0\refint\PFL.Business.dll
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Business\obj\Debug\net6.0\PFL.Business.pdb
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Business\obj\Debug\net6.0\ref\PFL.Business.dll

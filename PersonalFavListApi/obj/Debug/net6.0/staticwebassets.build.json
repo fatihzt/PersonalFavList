@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EilnR7uDMgdh7cUZGAhJbjafdxKg8MLaLOZjPOxisrI=",
+  "Source": "PersonalFavListApi",
+  "BasePath": "_content/PersonalFavListApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

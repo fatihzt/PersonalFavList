@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Core\bin\Debug\net6.0\PFL.Core.deps.json
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Core\bin\Debug\net6.0\PFL.Core.runtimeconfig.json
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Core\bin\Debug\net6.0\PFL.Core.dll
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Core\bin\Debug\net6.0\PFL.Core.pdb
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Core\bin\Debug\net6.0\PFL.Entities.dll
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Core\bin\Debug\net6.0\PFL.Entities.pdb
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Core\obj\Debug\net6.0\PFL.Core.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Core\obj\Debug\net6.0\PFL.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Core\obj\Debug\net6.0\PFL.Core.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Core\obj\Debug\net6.0\PFL.Core.AssemblyInfo.cs
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Core\obj\Debug\net6.0\PFL.Core.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Core\obj\Debug\net6.0\PFL.Core.csproj.CopyComplete
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Core\obj\Debug\net6.0\PFL.Core.dll
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Core\obj\Debug\net6.0\refint\PFL.Core.dll
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Core\obj\Debug\net6.0\PFL.Core.pdb
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Core\obj\Debug\net6.0\PFL.Core.genruntimeconfig.cache
+C:\Users\USER\source\repos\src\PersonalFavList\PFL.Core\obj\Debug\net6.0\ref\PFL.Core.dll

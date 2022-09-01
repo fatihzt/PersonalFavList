@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\src\PersonalFavList\PVL.Entities\bin\Debug\net6.0\PFL.Entities.deps.json
+C:\Users\USER\source\repos\src\PersonalFavList\PVL.Entities\bin\Debug\net6.0\PFL.Entities.dll
+C:\Users\USER\source\repos\src\PersonalFavList\PVL.Entities\bin\Debug\net6.0\PFL.Entities.pdb
+C:\Users\USER\source\repos\src\PersonalFavList\PVL.Entities\obj\Debug\net6.0\PFL.Entities.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\src\PersonalFavList\PVL.Entities\obj\Debug\net6.0\PFL.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\src\PersonalFavList\PVL.Entities\obj\Debug\net6.0\PFL.Entities.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\src\PersonalFavList\PVL.Entities\obj\Debug\net6.0\PFL.Entities.AssemblyInfo.cs
+C:\Users\USER\source\repos\src\PersonalFavList\PVL.Entities\obj\Debug\net6.0\PFL.Entities.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\src\PersonalFavList\PVL.Entities\obj\Debug\net6.0\PFL.Entities.dll
+C:\Users\USER\source\repos\src\PersonalFavList\PVL.Entities\obj\Debug\net6.0\refint\PFL.Entities.dll
+C:\Users\USER\source\repos\src\PersonalFavList\PVL.Entities\obj\Debug\net6.0\PFL.Entities.pdb
+C:\Users\USER\source\repos\src\PersonalFavList\PVL.Entities\obj\Debug\net6.0\ref\PFL.Entities.dll
